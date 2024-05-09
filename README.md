@@ -11,8 +11,6 @@ Save Favorite Recipes: Once users find a recipe they love, they can save it to t
 
 User Profiles: Each user has their own profile where they can view and manage their saved recipes.
 
-Responsive Design: The application is designed to work seamlessly across devices of all sizes, from desktop computers to smartphones.
-
 ## Tech Stack
 
 -Forkify API: The backbone of the application, providing access to a vast collection of recipes.
