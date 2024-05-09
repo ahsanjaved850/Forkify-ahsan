@@ -17,8 +17,6 @@ User Profiles: Each user has their own profile where they can view and manage th
 
 -HTML/CSS/JavaScript: The frontend of the application is built using these technologies to create an intuitive and interactive user experience.
 
--Node.js: The backend of the application is powered by Node.js, providing the server-side logic and handling user authentication.
-
 -Parcel.js: Express.js is used to build the RESTful API that connects the frontend to the backend.
 
 
