@@ -47,7 +47,7 @@ https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bc886?key=<i
 ```
 ## Screenshot
 
-!(https://github.com/ahsanjaved850/Recipe-Finder/assets/135028201/38dcbe67-8ffe-408f-a110-fc4d64f4506b)
+(https://github.com/ahsanjaved850/Recipe-Finder/assets/135028201/38dcbe67-8ffe-408f-a110-fc4d64f4506b)
 
 ## Contributing
 
